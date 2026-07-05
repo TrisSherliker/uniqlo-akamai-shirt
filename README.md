@@ -4,6 +4,6 @@ For details see [the blog post at tris.sherliker.net](https://tris.sherliker.net
 
 The shirt contains a bash script with obfuscated text. Decoded, it outputs a text animation of the message "Peace for all" with heart emojis: 
 
-![term-output-recording.webm]
+![Static terminal output](term-output-static.png)
 
-![term-output-static.png]
+[▶ Terminal recording (webm)](term-output-recording.webm)
