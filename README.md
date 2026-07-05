@@ -6,4 +6,4 @@ The shirt contains a bash script with obfuscated text. Decoded, it outputs a tex
 
 ![Static terminal output](term-output-static.png)
 
-![Terminal animation ](term-output-recording.gif)
+![Terminal animation](term-output-recording.gif)
